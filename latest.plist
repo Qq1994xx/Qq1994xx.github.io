@@ -20,7 +20,7 @@
 
 <key>url</key>
 
-<string>https://roo104.us-east-1.linodeobjects.com/na104_20230331.ipa</string>
+<string>https://roo108.us-east-1.linodeobjects.com/OriginWorld.ipa</string>
 
 </dict>
 
@@ -32,7 +32,7 @@
 
 <key>bundle-identifier</key>
 
-<string>comj.sgtx.ro</string>
+<string>net.gdyuhui.wisdomcamp</string>
 
 <key>bundle-version</key>
 
